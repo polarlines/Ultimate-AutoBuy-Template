@@ -4,7 +4,7 @@
 
 Sell digital products with full control and ease - Alternative to Sellix and Shoppy
 
-![Logo](https://builtbybit.com/attachments/blue-modern-eye-catching-vlog-youtube-thumbnail-png.659084)
+![Logo](https://i.postimg.cc/sfPzhpsf/Blue-Modern-Eye-Catching-Vlog-You-Tube-Thumbnail.png)
 
 ## How to Purchase
 
@@ -15,10 +15,10 @@ https://builtbybit.com/resources/ultimate-autobuy-website-template.35042/
 Introducing the Ultimate AutoBuy Template, your key to effortless digital selling. With seamless integration for PayPal, Bitcoin, and Stripe (credit/debit card payments), this template redefines the way you sell digital products online. Say goodbye to complexities and confinement from third-party software. Say hello to a streamlined selling experience. Get rid of Sellix and Shoppy and make the smart switch to the Ultimate AutoBuy Template!
 ## Preview
 
-![App Screenshot](https://builtbybit.com/attachments/screenshot-2023-11-11-at-9-18-29-pm-png.659085)
+![App Screenshot](https://i.postimg.cc/HkvdLdHQ/Screenshot-2023-11-11-at-9-18-29-PM.png)
 
 
-![App Screenshot](https://builtbybit.com/attachments/screenshot-2023-11-12-at-11-54-26-pm-png.659573)
+![App Screenshot](https://i.postimg.cc/Pr6BWycH/Screenshot-2023-11-12-at-11-54-26-PM.png)
 
 
 ## Features
